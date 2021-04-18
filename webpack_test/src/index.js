@@ -1,3 +1,3 @@
 import "./index.css";
 
-document.write('Hello, webpack! WOW!!!');
+document.write("Hello, webpack! WOW!!!");
